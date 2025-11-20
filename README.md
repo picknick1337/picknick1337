@@ -43,7 +43,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhilkb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nikhilkn" /></a>
 <a href="https://twitter.com/picknick1337" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="@picknick1337" /></a>
-<a href="https://instagram.com/picnick1337" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="picknick1337" /></a>
+<a href="https://instagram.com/picknick1337" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="picknick1337" /></a>
 <a href="https://steamcommunity.com/id/nickk_1337/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="picknick1337" /></a>
 <a href="https://open.spotify.com/user/su5p69fvs2a2uaa1etstgcll2?si=8f7623eda4a3499c" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="nikhilkb" /></a>
 </p>
